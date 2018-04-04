@@ -1,0 +1,15 @@
+{
+	"project": "wplib",
+	"name": "apache",
+	"version": "2.4.29",
+	"majorversion": "2.4",
+	"latest": "1",
+	"class": "webserver",
+	"network": "--network wplibbox",
+	"ports": "-p 8080:80",
+	"volumes": "-v /var/www:/var/www/localhost/htdocs",
+	"restart": "--restart no",
+	"args": "",
+	"env": "APACHE2_VERSION"
+}
+
