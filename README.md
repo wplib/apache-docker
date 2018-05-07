@@ -1,3 +1,5 @@
+![Apache 2.4.x](https://img.shields.io/badge/Apache-2.4.x-green.svg)
+
 ```
  __          _______  _      _ _       ____
  \ \        / /  __ \| |    (_) |     |  _ \
