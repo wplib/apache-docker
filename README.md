@@ -14,7 +14,7 @@
 
 # Apache2 Docker Container for WPLib Box
 This is the repository for the [Apache2](http://apache.org/) Docker container implemented for [WPLib-Box](https://github.com/wplib/wplib-box).
-It currently provides versions 2.4.33
+It currently provides versions 2.4.x
 
 
 ## Supported tags and respective Dockerfiles
