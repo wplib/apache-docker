@@ -1,7 +1,7 @@
 {
 	"project": "wplib",
 	"name": "apache",
-	"version": "2.4.33",
+	"version": "2.4.39",
 	"majorversion": "2.4",
 	"latest": "1",
 	"class": "webserver",

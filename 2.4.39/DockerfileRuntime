@@ -2,7 +2,7 @@ FROM alpine:3.7
 MAINTAINER WPLib Team <team@wplib.org>
 
 RUN apk update && \
-	apk add --no-cache bash shadow apache2=2.4.33-r0 apache2-proxy=2.4.33-r0 apache2-ssl=2.4.33-r0 && \
+	apk add --no-cache bash shadow apache2=2.4.39-r0 apache2-proxy=2.4.39-r0 apache2-ssl=2.4.39-r0 && \
 	groupadd -g 1000 boxuser && \
 	mkdir /var/mail && \
 	useradd -d /var/cache/nginx -c "WPLib Box user" -u 1000 -g 1000 -N -s /bin/bash boxuser && \
